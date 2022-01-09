@@ -29,7 +29,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <a href="index.php?controller=manage&action=index" class="close" data-dismiss="modal">&times;</a>
-                        <h4 class="modal-title"><i class="fa fa-plus"></i> Edit Record</h4>
+                        <h4 class="modal-title"><i class="fa fa-plus"></i> Sửa dự án</h4>
                 </div>
                 <div class="modal-body">
                         <div class="form-group">

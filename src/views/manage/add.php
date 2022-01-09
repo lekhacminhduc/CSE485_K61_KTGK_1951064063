@@ -25,7 +25,7 @@
 </div>
 <div class="modal-dialog">
         <h1 class="text-center">
-            Thêm mới blood
+            Thêm dự án
         </h1>
 
         <!--</form>-->
@@ -37,32 +37,32 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 class="modal-title"><i class="fa fa-plus"></i> Insert Record</h4>
+                        
                 </div>
                 <div class="modal-body">
                         <div class="form-group">
-                            <label for="name" class="control-label">Name</label>
+                            <label for="name" class="control-label">Tên dự án</label>
                             <input type="text" require name="txtName">			
                         </div>
                         <div class="form-group">
-                            <label for="age" class="control-label">DATE</label>							
+                            <label for="age" class="control-label">Năm thực hiện</label>							
                             <input type="text" require name="txtDate">							
                         </div>	 	
                         <div class="form-group">
-                            <label for="lastname" class="control-label">Linh Vuc</label>							
+                            <label for="lastname" class="control-label">Lĩnh vực</label>							
                             <input type="text" require name="txtLV">				
                         </div>	
                         <div class="form-group">
-                            <label for="address" class="control-label">Nhiem Vu</label>							
+                            <label for="address" class="control-label">Nhiệm vụ</label>							
                             <input type="text" require name="txtNV">
                         </div>
                         <div class="form-group">
-                            <label for="lastname" class="control-label">Co quan thuc hien</label>							
+                            <label for="lastname" class="control-label">Cơ quan thực hiện</label>							
                             <input type="text" require name="txtCQ">
                         </div>					
                 </div>
                 <div class="modal-footer">
-                        <input type="submit" name="submit" value="Insert" />
+                        <input type="submit" name="submit" value="Thêm" />
                 </div>
             </div>
         </form>
